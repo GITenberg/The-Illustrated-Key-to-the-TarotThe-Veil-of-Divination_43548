@@ -1,0 +1,29 @@
+_repo: The-Illustrated-Key-to-the-TarotThe-Veil-of-Divination_43548
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43548-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Laurence, L. W. (Lauron William)
+    aliases:
+    - Laurence, L. W. de‏ (Lauron William)
+    - Laurence, Lauron William de
+    birthdate: 1868
+    gutenberg_agent_id: '42287'
+    url: http://www.gutenberg.org/2009/agents/42287
+description: ''
+gutenberg_issued: '2013-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tarot'
+- !lcsh 'Fortune-telling by cards'
+- !lcc 'BF'
+title: 'The Illustrated Key to the Tarot: The Veil of Divination'
+url: http://www.gutenberg.org/ebooks/43548
